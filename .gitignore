@@ -1,0 +1,16 @@
+# Data and large files
+data/
+*.csv.gz
+*.sumstats.gz
+*.zip
+*.npy
+answers/
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.env
+# OS
+.DS_Store
+
+transcripts/
+qa_pairs.json
